@@ -1,0 +1,41 @@
+Prefácio.
+
+Pequenas coisas são importantes. Este é um livro sobre preocupações modestas cujos valores estão longe de ser pequenos.
+
+Deus está nos detalhes. Pequenas coisas são importantes. Profissionais responsáveis dedicam algum tempo para pensar e planejar o início de um projeto.
+A atenção aos detalhes é um fundamento de profissionalismo ainda mais crítico que qualquer visão maior. Primeiro, é por meio da prática em pequenos trabalhos
+que profissionais adquirem proficiência e confiança para se aventurar nos maiores. Segundo, a menor parte de uma construção desleixada, a porta que não fecha
+direito ou o azuleijo levemente torto do chão, ou mesmo uma mesa dessarumada, retiram completamente o charme do todo.
+
+Em software, 80% ou mais que fazemos é chamado manutençaão: o ato de reparar.
+
+Por volta de 1951, uma abordagem qualitativa chamada Manutenção Produtiva Total (Total Productive Maintenance) surgiu no cenário japonês, onde seu foco
+era na manutenção em vez da produção. Um dos maiores fundamentos da TPM é o cojunto dos 5S.
+
+Tio Bob diz em sua preliminares, a prática de um bom software requer tal disciplina: foco, presença de espírito e pensamento. Nem sempre é sobre fazer,
+sobre pressionar os equipamentos da fábrica para produzir em velocidade máxima. Filosofia dos 5S.:
+	
+	Seiri, ou organização (pense em "ordenar"). Saber onde estão as coisas - usar abordagens como nomes adequados - é crucial.
+	Seiton, ou arrumação (pense em "sistematizar"). Há um antigo ditado americano que diz: "Um lugar para tudo, e tudo em seu lugar". Um pedaço de
+código deve estar onde você espera encontrá-lo.
+	Seiso, ou limpeza (pense em "polir"): manter o local de trabalho livre de fios pendurados, gorduras, migalhas e lixo. O que os autores falam aqui 
+é sobre encher o seu codigo com comentarios e linhas de codigos como comentarios que informa o passado ou os desejos para o futuros.
+	Seiketsu, ou padronização: a equipe concorda em manter o local de trabalho limpo. Você acha que este livro fala algo sobre ter um estilo de
+programacao consistente e uma serie de praticas dentro da equipe? De onde vem tais padroes?
+	Shutsuke, ou disciplina (autodisciplina). Isso significa ter disciplina para seguir as praticas e refletir frequentemente isso no trabalho e estar
+disposto a mudar.
+
+Tornar seu código legível é tão importante quanto torná-lo executável. Como adverte Fred Brooks, provavelmente devemos refazer partes principais do software
+a partir do zero a cada sete anos ou então nos livrar dos entulhos. Talvez devessemos atualizar a constantes de tempo de Fred para semanas, dias ou horas,
+em vez de anos. E ai onde ficam os detalhes.
+
+Que tal integrar um trabalho de prevenção no dia a dia? O código limpo honra as profundas raízes do conhecimento sob nossa cultura mais ampla, ou como ela 
+fora um dia, ou deve ser e poderá vir a ser com a ATENÇÃO CORRETA AOS DETALHES.
+
+Pense nas maçanetas de Mies van der Rohe, onde o ato dele é seiri. É ficar atento a cada nome de variável. Deve-se escolher o nome de uma variável com cuidado,
+como se fosse seu primeiro filho.
+
+Endentação era um dos indicadores mais signicantes estatiscamente da baixa incidência de bugs.
+
+Devemos ver nosso código como a bela articulação dos nobres esforços do projeto - projeto como um processo, e não uma meta estática. É no código que ocorrem 
+as medias estruturais de acoplamento e coesão 
